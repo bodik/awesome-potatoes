@@ -1,6 +1,6 @@
 # Awesome Windows Potatoes
 
-Study notes on Windows NTLM Reflection and token stealing based EOPs. Any comments, cleanups and clarifications in for of PRs are welcome.
+Study notes on Windows NTLM Reflection and token stealing based EOPs.
 
 
 ## Misc
@@ -114,6 +114,8 @@ Study notes on Windows NTLM Reflection and token stealing based EOPs. Any commen
 * [x2] https://decoder.cloud/2018/10/29/no-more-rotten-juicy-potato/
 * [x3] https://decoder.cloud/2018/01/13/potato-and-tokens/
 * [x4] https://micahvandeusen.com/the-power-of-seimpersonation/
+* [x5] https://jlajara.gitlab.io/others/2020/11/22/Potatoes_Windows_Privesc.html
+* [yy] anything else I found publicly available on the internet, usend and lost reference to. sory.
 
 
 
