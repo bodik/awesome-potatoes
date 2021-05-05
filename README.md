@@ -115,7 +115,7 @@ Study notes on Windows NTLM Reflection and token stealing based EOPs.
 * [x3] https://decoder.cloud/2018/01/13/potato-and-tokens/
 * [x4] https://micahvandeusen.com/the-power-of-seimpersonation/
 * [x5] https://jlajara.gitlab.io/others/2020/11/22/Potatoes_Windows_Privesc.html
-* [yy] anything else I found publicly available on the internet, usend and lost reference to. sory.
+* [yy] anything else I found publicly available on the Internet, used and lost reference to. sory.
 
 
 
