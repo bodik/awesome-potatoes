@@ -1,6 +1,6 @@
 # Awesome Windows Potatoes
 
-Study notes on Windows NTLM Reflection and token stealing based EOPs.
+Study notes on Windows NTLM Reflection and token stealing based EOPs. Any comments, cleanups and clarifications in for of PRs are welcome.
 
 
 ## Misc
